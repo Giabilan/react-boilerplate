@@ -6,7 +6,7 @@ This is a professional React boilerplate setup aimed at kickstarting your fronte
 
 - **React (^18.2.0)**: Utilize the latest version of React to build powerful user interfaces with ease.
 - **React DOM (^18.2.0)**: A package that serves as the entry point to the DOM and server renderers for React.
-- **React Icons (^5.0.1)**: Provides a set of beautifully crafted icons for React projects, enhancing visual appeal.
+- **Lucide (^0.344.0)**: Provides a set of beautifully crafted icons for React projects, enhancing visual appeal.
 - **React Router DOM (^6.22.1)**: Manage your application's routing with ease using the latest version of React Router.
 - **Tailwind CSS (^3.4.1)**: A utility-first CSS framework that helps you build responsive designs quickly.
 - **Vite (^5.1.4)**: A fast development server and React build tool that provides an instant server start and hot module replacement (HMR) during development.
